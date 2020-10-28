@@ -1,4 +1,6 @@
-### application.bat - 201x - ADE ###
-echo "version 1.1"
-echo "Company copyright - 2020"
-Build 10:00
+### application.bat - 2020 - ADE ###
+verion = "2"
+Build_hour = 11:00
+
+echo "Build ${build_hour}"
+echo "version ${version}"
